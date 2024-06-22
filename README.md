@@ -1,2 +1,2 @@
-# Phyton-Statistic-for-DS
-Coursera Course
+# Statistics for Data Science with Python
+For final assignment of Coursera course
